@@ -11,4 +11,5 @@
 ## Once you addeed your .txt file inside your folder (ex: /network-hack/wbousfir/*.txt), git add your changes, go the root of this repo and run the script "push.sh" to gitpush everything
 ***
 ***
+### Network project in progress.. {fixing raspberry entropy problem}
 ### (For the network project, it will be available between 7AM to 7PM everydayfor now, sometimes at night when i'm here {wbousfir} we're talking to the staff to let the AccessPoint all day every day for some weeks, we'll let you know on discord )
